@@ -58,7 +58,7 @@ So as part of this roadmap, we have tried to organize the best content we found 
 
 ## Introduction to Computer Science
 
-This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
+This course will introduce you to the world of computer science. Students who have never studied CS should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
 **Topics covered**:
 `computation`
@@ -68,11 +68,11 @@ This course will introduce you to the world of computer science. Students who ha
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+[Computer Science Crash Course](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) | 4 weeks | 10 videos/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Introduction to Programming Concepts
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
+If you've never written a for-loop, or don't know what a string is in programming, start here. This course is simple and language independent with just enough content to teach you the basics and get you started.
 
 **Topics covered**:
 `simple programs`
@@ -80,7 +80,7 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
+[Introduction to Programming(freeCodeCamp)](https://youtu.be/zOjov-2OZ0E) | 2 days | 1 hour/day | none | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Basics of C#
 
