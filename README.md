@@ -29,30 +29,30 @@ So as part of this roadmap, we have tried to organize the best content we found 
 # Curriculum
 
 **The curriculum is designed as follows**:
-- [**Level 0**: Introduction to Computer Science](#introduction-to-computer-science): for students to try out CS and see if it's right for them
-- [**Level 1**: Introduction to Programming Concepts](#introduction-to-programming-concepts): 
-- [**Level 2**: Basics of C#](#basics-of-c#): 
-  - [Beginner Concepts](#beginner-concepts): 
-  - [Intermediate Concepts(OOPS)](#intermediate-concepts): 
-  - [Console Project](#console-project): 
-- [**Level 3**: Introduction to Desktop UI](#introduction-to-desktop-ui): 
-  - [Winforms](#winforms): 
-  - [WPF](#windows-presentation-framework): 
-  - [Desktop Project](#desktop-project): 
-- [**Level 4**: Advanced C# Deep Dive](#advanced-c#-deep-dive): 
-  - [LINQ](#linq): 
-  - [Events, delegates, and lambdas](#events,-delegates,-and-lambdas): 
-  - [Multithreading](#multithreading): 
-  - [Interacting with DataBases](#interacting-with-databases): 
-- [**Level 5**: Web Developement](#web-development): 
-  - [Basic HTML, CSS and JavaScript](#basic-html,-css-and-javascript)
-  - [ASP.Net](#asp.net): 
-  - [Balzor](#blazor): 
-  - [Web Project](#web-project): 
-- [**Level 6**: Game Developement](#game-development): 
+- [**Level 0**: Introduction to Computer Science](#introduction-to-computer-science)
+- [**Level 1**: Introduction to Programming Concepts](#introduction-to-programming-concepts)
+- [**Level 2**: Basics of C#](#basics-of-c)
+  - [Beginner Concepts](#beginner-concepts)
+  - [Intermediate Concepts(OOPS)](#intermediate-concepts)
+  - [Console Project](#console-project)
+- [**Level 3**: Introduction to Desktop UI](#introduction-to-desktop-ui)
+  - [Winforms](#winforms)
+  - [WPF](#windows-presentation-framework)
+  - [Desktop Project](#desktop-project)
+- [**Level 4**: Advanced C# Deep Dive](#advanced-c-deep-dive): 
+  - [LINQ](#linq)
+  - [Events, delegates, and lambdas](#events-delegates-and-lambdas)
+  - [Multithreading](#multithreading)
+  - [Interacting with DataBases](#interacting-with-databases)
+- [**Level 5**: Web Developement](#web-development)
+  - [Basic HTML, CSS and JavaScript](#basic-html-css-and-javascript)
+  - [ASP.Net](#aspnet)
+  - [Blazor](#blazor)
+  - [Web Project](#web-project)
+- [**Level 6**: Game Developement](#game-development)
   - [Basics of Unity](#basics-of-unity)
-  - [Unity Project](#unity-project):   
-- [Final Project](#final-project): 
+  - [Unity Project](#unity-project)
+- [Final Project](#final-project)
 
 ---
 
