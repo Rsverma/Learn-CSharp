@@ -87,9 +87,38 @@ Full University Course | [CS50's Introduction to Computer Science](https://www.e
 
 ## Basics of C#
 
+Once you have basic idea of Computer Scince and Programming you can learn from C# from official tutorials provided by Microsoft.
+
 ### Beginner Concepts
 
+**Topics covered**:
+`"Hello World" program`
+`Working with Variables`
+`Data Types`
+`Conditional Statements`
+`Loops`
+`Clean code`
+
+
+
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Official Microsoft Course | [Take your first steps with C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) | 1 week | 30 min/day | Upto Level 1 | [chat](https://discord.gg/qYTcKnerpB)
+
 ### Intermediate Concepts
+
+**Topics covered**:
+`"Classes/Object`
+`Inheritance`
+`Encapsulation`
+`Polymorphism`
+`Abstraction`
+
+
+
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Theoritical Tutorial | [C# OOP (w3schools)](https://www.w3schools.com/cs/cs_oop.php) | 2 weeks | 30 min/day | Basics of C# | [chat](https://discord.gg/qYTcKnerpB)
 
 ### Console Project
 
