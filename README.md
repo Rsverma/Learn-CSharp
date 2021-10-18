@@ -66,9 +66,10 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Computer Science Crash Course](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) | 4 weeks | 10 videos/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/qYTcKnerpB)
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Crash Course | [Computer Science Crash Course](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) | 4 weeks | 3 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/qYTcKnerpB)
+Full University Course | [Computer Science 101(StanfordOnline)](https://www.edx.org/course/computer-science-101) | 6 weeks | 6 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Introduction to Programming Concepts
 
@@ -78,9 +79,11 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Programming(freeCodeCamp)](https://youtu.be/zOjov-2OZ0E) | 2 days | 1 hour/day | none | [chat](https://discord.gg/qYTcKnerpB)
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Crash Course | [Introduction to Programming(freeCodeCamp)](https://youtu.be/zOjov-2OZ0E) | 2 days | 1 hour/day | none | [chat](https://discord.gg/qYTcKnerpB)
+Full University Course | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | 12 weeks | 8 hours/week | none | [chat](https://discord.gg/qYTcKnerpB)
+
 
 ## Basics of C#
 
