@@ -103,12 +103,12 @@ Once you have basic idea of Computer Scince and Programming you can learn from C
 
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
-Official Microsoft Course | [Take your first steps with C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) | 1 week | 30 min/day | Upto Level 1 | [chat](https://discord.gg/qYTcKnerpB)
+Official Microsoft Course | [Take your first steps with C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) | 1 week | 30 min/day | CS and Programming basics | [chat](https://discord.gg/qYTcKnerpB)
 
 ### Intermediate Concepts
 
 **Topics covered**:
-`"Classes/Object`
+`Classes/Objects`
 `Inheritance`
 `Encapsulation`
 `Polymorphism`
@@ -118,9 +118,13 @@ Official Microsoft Course | [Take your first steps with C#](https://docs.microso
 
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
-Theoritical Tutorial | [C# OOP (w3schools)](https://www.w3schools.com/cs/cs_oop.php) | 2 weeks | 30 min/day | Basics of C# | [chat](https://discord.gg/qYTcKnerpB)
+Theoritical tutorial | [C# OOP (w3schools)](https://www.w3schools.com/cs/cs_oop.php) | 2 weeks | 30 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
 
 ### Console Project
+
+Project | Discussion
+:-- | :--:
+[Create a simple C# console app](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console) | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Introduction to Desktop UI
 
