@@ -37,7 +37,8 @@ So as part of this roadmap, we have tried to organize the best content we found 
   - [Console Project](#console-project)
 - [**Level 3**: Introduction to Desktop UI](#introduction-to-desktop-ui)
   - [Winforms](#winforms)
-  - [WPF](#windows-presentation-framework)
+  - [WPF](#wpf)
+  - [UWP](#uwp)
   - [Desktop Project](#desktop-project)
 - [**Level 4**: Advanced C# Deep Dive](#advanced-c-deep-dive): 
   - [LINQ](#linq)
@@ -107,6 +108,8 @@ Official Microsoft Course | [Take your first steps with C#](https://docs.microso
 
 ### Intermediate Concepts
 
+Since C# is an Object Oriented Programming Language, it is good to familiarize yourself with OOP concepts before going deep into advanced C# concepts.
+
 **Topics covered**:
 `Classes/Objects`
 `Inheritance`
@@ -128,11 +131,62 @@ Project | Discussion
 
 ## Introduction to Desktop UI
 
+Once you have learnt the c# basics it is good to practice with Desktop projects to get comfortable with C# as they provide you with more features to experiment with than Console projects. This is not madatory if you are leaning C# specifically for the purpose of Web Development or Game Developement.
+
 ### Winforms
+
+Easiest to get started and build small applications but not recommended for large projects.
+
+**Topics covered**:
+`Winforms Designer`
+`Align Controls`
+`Data Binding`
+`Custom Controls`
+
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Official Microsoft Course | [Get started with Windows Forms Designer](https://docs.microsoft.com/en-us/visualstudio/designers/walkthrough-windows-forms-designer) | 1 week | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
 
 ### WPF
 
+Most used and recommended UI framework for Desktop development with C#.
+
+**Topics covered**:
+`XAML`
+`Controls`
+`Panels`
+`Custom Controls`
+`Data Binding`
+`Commands`
+
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Theoritical Course | [The complete WPF tutorial](https://wpf-tutorial.com/) | 6 week | 5 hours/week | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+Quick Tutorial | [Writing a WPF app](https://docs.microsoft.com/en-us/learn/modules/write-your-first-windows10-app/2-writing-wpf-app) | 1 day | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+
+
+### UWP
+
+UWP is one choice for creating apps that run on all Windows 10 devices. It has similar structure as WPF. 
+
+**Topics covered**:
+`Forms`
+`Controls`
+`Settings`
+`File Handling`
+
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Official Microsoft Course | [Get started with Windows 10 apps](https://docs.microsoft.com/en-us/windows/uwp/get-started/) | 1 week | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+In-depth video tutorials | [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) | 6 weeks | 3 hours/week | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+
 ### Desktop Project
+
+Topic | Project | Discussion
+:-- | :-- | :--:
+Winforms | [Create a matching game](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-3-create-a-matching-game) | [chat](https://discord.gg/qYTcKnerpB)
+WPF | [Classic Snake game in WPF](https://wpf-tutorial.com/creating-game-snakewpf/introduction/) | [chat](https://discord.gg/qYTcKnerpB)
+UWP | [VanArsdel Inventory Sample(Github)](https://github.com/Microsoft/InventorySample) | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Advanced C# Deep Dive
 
